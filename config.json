@@ -1,0 +1,13 @@
+{
+    "proxy_enabled": true,
+    "concurrent_accounts": 5,
+    "check_interval": {
+        "min_hours": 1,
+        "max_hours": 2
+    },
+    "api": {
+        "base_url": "https://lightmining-api.taker.xyz",
+        "rpc_url": "https://rpc-mainnet.taker.xyz"
+    },
+    "invitation_code": "80XBK"
+}

@@ -1,0 +1,5 @@
+aiohttp
+web3
+rich
+python-dotenv
+fake_useragent
