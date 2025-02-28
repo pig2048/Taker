@@ -13,21 +13,24 @@
 
 1. 克隆仓库
 
-bash
-git clone https://github.com/your-username/taker-mining-bot.git
+```
+git clone https://github.com/pig2048/Taker.git
 cd taker-mining-bot
+```
 
 2. 创建虚拟环境
 
-bash
+```
 python -m venv venv
 source venv/bin/activate # Linux/Mac
 venv\Scripts\activate # Windows
+```
 
 3. 安装依赖
 
-bash
+```
 pip install -r requirements.txt
+```
 
 ## 配置
 
@@ -43,8 +46,9 @@ pip install -r requirements.txt
 
 运行程序：
 
-bash
+```
 python main.py
+```
 
 ## 注意事项
 
